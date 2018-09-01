@@ -62,3 +62,31 @@ font-weight: 700;
 {
     font-size: 20px;
 }
+/*-------------------------------------------------------------------*/
+#services
+{
+	width: 100%; 
+	min-height: 300px; 
+	overflow: hidden; 
+}
+#services .head 
+{
+	padding-top: 60px;
+}
+
+
+#services .part 
+{
+	padding-top: 60px; 
+	padding-bottom: 80px; 
+}
+#services .part i
+{
+	color: #f05f40;
+}
+#services .part p 
+{
+	color: #868e96;
+	font-weight: 700;
+	font-size: 16px;
+}
