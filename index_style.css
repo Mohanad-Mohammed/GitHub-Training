@@ -34,63 +34,6 @@ font-weight: 700;
     background-color: transparent;
 }
 /*-------------------------------------------------------------------*/
-#contact
-{
-    width: 100%; 
-    min-height: 400px;  
-}
-
-#contact h2
-{
-    padding-top: 80px;
-    font-size: 35px;
-}
-#contact .lead 
-{
-    font-size: 18px;
-}
-#contact p 
-{
-    padding-top: 20px; 
-}
-.env a 
-{
-    color: rgba(240,95,64,.9); 
-    font-size: 20px;
-}
-.phone p 
-{
-    font-size: 20px;
-}
-/*-------------------------------------------------------------------*/
-#services
-{
-	width: 100%; 
-	min-height: 300px; 
-	overflow: hidden; 
-}
-#services .head 
-{
-	padding-top: 60px;
-}
-
-
-#services .part 
-{
-	padding-top: 60px; 
-	padding-bottom: 80px; 
-}
-#services .part i
-{
-	color: #f05f40;
-}
-#services .part p 
-{
-	color: #868e96;
-	font-weight: 700;
-	font-size: 16px;
-}
-
 /***hassan el shaba7*************************************************/
 #flod
 {
@@ -184,3 +127,61 @@ font-weight: 700;
 	border-radius: 300px;
 	border: none;
 }
+/*** *********************************/
+#contact
+{
+    width: 100%; 
+    min-height: 400px;  
+}
+
+#contact h2
+{
+    padding-top: 80px;
+    font-size: 35px;
+}
+#contact .lead 
+{
+    font-size: 18px;
+}
+#contact p 
+{
+    padding-top: 20px; 
+}
+.env a 
+{
+    color: rgba(240,95,64,.9); 
+    font-size: 20px;
+}
+.phone p 
+{
+    font-size: 20px;
+}
+/*-------------------------------------------------------------------*/
+#services
+{
+	width: 100%; 
+	min-height: 300px; 
+	overflow: hidden; 
+}
+#services .head 
+{
+	padding-top: 60px;
+}
+
+
+#services .part 
+{
+	padding-top: 60px; 
+	padding-bottom: 80px; 
+}
+#services .part i
+{
+	color: #f05f40;
+}
+#services .part p 
+{
+	color: #868e96;
+	font-weight: 700;
+	font-size: 16px;
+}
+
