@@ -127,35 +127,6 @@ font-weight: 700;
 	border-radius: 300px;
 	border: none;
 }
-/*** *********************************/
-#contact
-{
-    width: 100%; 
-    min-height: 400px;  
-}
-
-#contact h2
-{
-    padding-top: 80px;
-    font-size: 35px;
-}
-#contact .lead 
-{
-    font-size: 18px;
-}
-#contact p 
-{
-    padding-top: 20px; 
-}
-.env a 
-{
-    color: rgba(240,95,64,.9); 
-    font-size: 20px;
-}
-.phone p 
-{
-    font-size: 20px;
-}
 /*-------------------------------------------------------------------*/
 #services
 {
@@ -246,4 +217,33 @@ font-weight: 700;
 #portfolio .img-responsive
 {
 	width: 100%;
+}
+/*** *********************************/
+#contact
+{
+    width: 100%; 
+    min-height: 400px;  
+}
+
+#contact h2
+{
+    padding-top: 80px;
+    font-size: 35px;
+}
+#contact .lead 
+{
+    font-size: 18px;
+}
+#contact p 
+{
+    padding-top: 20px; 
+}
+.env a 
+{
+    color: rgba(240,95,64,.9); 
+    font-size: 20px;
+}
+.phone p 
+{
+    font-size: 20px;
 }
